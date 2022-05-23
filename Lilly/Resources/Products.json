@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product A",
+      "image": "product_a",
+      "description": "Product A description",
+      "rating": 4.1,
+      "price": 100.0
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "image": "product_b",
+      "description": "Product B description",
+      "rating": 2.5,
+      "price": 200.0
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "image": "product_c",
+      "description": "Product C description",
+      "rating": 2.0,
+      "price": 10.0
+    },
+    {
+      "id": 4,
+      "name": "Product D",
+      "image": "product_d",
+      "description": "Product D description",
+      "rating": 4.7,
+      "price": 5000.0
+    }
+  ]
+}
